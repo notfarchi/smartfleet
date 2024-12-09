@@ -6,7 +6,8 @@ Liste os documentos disponibilizados nesta pasta com uma breve descrição do co
 
 Relatório completo do projeto, contendo a descrição dos objetivos, desenvolvimento e resultados obtidos.
 
-[projetoeixo2.pdf](https://github.com/user-attachments/files/18055096/projetoeixo2.pdf)
+[Projeto eixo 2.pdf](https://github.com/user-attachments/files/18055294/Projeto.eixo.2.pdf)
+
 
 * apresentacao.mkv - Vídeo de apresentação do projeto.
 
