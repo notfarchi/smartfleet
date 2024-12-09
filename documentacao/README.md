@@ -9,11 +9,12 @@ Relatório completo do projeto, contendo a descrição dos objetivos, desenvolvi
 [Projeto eixo 2.pdf](https://github.com/user-attachments/files/18055294/Projeto.eixo.2.pdf)
 
 
-* apresentacao.mkv - Vídeo de apresentação do projeto.
+* apresentacao.mp4 - Vídeo de apresentação do projeto.
 
 Vídeo de apresentação do projeto, demonstrando as principais funcionalidades e explicações detalhadas.
 
-https://github.com/user-attachments/assets/ae09b813-57a5-4a42-9386-d9ba888c388e
+https://github.com/user-attachments/assets/85dee161-bdfc-421d-89f6-9a19bee15649
+
 
 * slides.pptx - Slides da apresentação final do projeto.
 
