@@ -13,4 +13,4 @@ Este projeto foi criado para aprimorar os processos de uma empresa de locação 
 
 ## Professor
 
-* Nome completo do professor
+* Rosilane Ribeiro da Mota
