@@ -1,7 +1,9 @@
 # Lista dos processos de negócio do sistema
+ 
+* cadastro_veiculos.bpmn - Processo de Cadastro de veículos.
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* cadastro_clientes.bpmn - Processo de Cadastro de clientes.
+
+* locação.bpmn - Processo de clientes.
 
 
